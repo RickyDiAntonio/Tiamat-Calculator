@@ -1,0 +1,18 @@
+# Ignore Visual Studio junk
+.vs/
+*.vsidx
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore build/packaging output
+build/
+dist/
+*.spec
+
+# OS noise
+.DS_Store
+Thumbs.db

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ricky\\codingWorkspace\\StreamCodeRepo\\Tiamat calculator\\",
+  "WorkspaceRootPath": "C:\\Users\\Ricky\\codingWorkspace\\Tiamat calculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F92E68C4-2FD7-4093-9B1D-2988044E40CC}|Tiamat calculator\\Tiamat calculator.pyproj|C:\\Users\\Ricky\\codingWorkspace\\StreamCodeRepo\\Tiamat calculator\\Tiamat calculator\\Tiamat_calculator.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{F92E68C4-2FD7-4093-9B1D-2988044E40CC}|Tiamat calculator\\Tiamat calculator.pyproj|C:\\Users\\Ricky\\codingWorkspace\\Tiamat calculator\\Tiamat calculator\\Tiamat_calculator.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{F92E68C4-2FD7-4093-9B1D-2988044E40CC}|Tiamat calculator\\Tiamat calculator.pyproj|solutionrelative:Tiamat calculator\\Tiamat_calculator.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Tiamat_calculator.py",
-              "DocumentMoniker": "C:\\Users\\Ricky\\codingWorkspace\\StreamCodeRepo\\Tiamat calculator\\Tiamat calculator\\Tiamat_calculator.py",
+              "DocumentMoniker": "C:\\Users\\Ricky\\codingWorkspace\\Tiamat calculator\\Tiamat calculator\\Tiamat_calculator.py",
               "RelativeDocumentMoniker": "Tiamat calculator\\Tiamat_calculator.py",
-              "ToolTip": "C:\\Users\\Ricky\\codingWorkspace\\StreamCodeRepo\\Tiamat calculator\\Tiamat calculator\\Tiamat_calculator.py",
+              "ToolTip": "C:\\Users\\Ricky\\codingWorkspace\\Tiamat calculator\\Tiamat calculator\\Tiamat_calculator.py",
               "RelativeToolTip": "Tiamat calculator\\Tiamat_calculator.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-09-19T06:15:35.904Z",
               "EditorCaption": ""
